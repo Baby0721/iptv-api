@@ -25,5 +25,5 @@ https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather
 # This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
 https://gh-proxy.org/https://github.com/jia070310/lemonTV/blob/main/iptv-fe.m3u
 https://gh-proxy.org/https://github.com/ioptu/migu_video/raw/refs/heads/main/migu.m3u
-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 
