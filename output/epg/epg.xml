@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260712022936 +0800">
+<tv date="20260712080417 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -552,55 +552,61 @@
 	<programme channel="CCTV-6" start="20260712015804 +0800" stop="20260712033004 +0800">
 		<title lang="zh">石头村发财记</title>
 	</programme>
-	<programme channel="CCTV-6" start="20260712033004 +0800" stop="20260712073807 +0800">
+	<programme channel="CCTV-6" start="20260712033004 +0800" stop="20260712050055 +0800">
 		<title lang="zh">火线干探：网络缉凶</title>
 	</programme>
-	<programme channel="CCTV-6" start="20260712073807 +0800" stop="20260712091247 +0800">
+	<programme channel="CCTV-6" start="20260712050055 +0800" stop="20260712070734 +0800">
+		<title lang="zh">侍神令</title>
+	</programme>
+	<programme channel="CCTV-6" start="20260712070734 +0800" stop="20260712084703 +0800">
 		<title lang="zh">跨国大追捕：金角湾的迷雾</title>
 	</programme>
-	<programme channel="CCTV-6" start="20260712091247 +0800" stop="20260712105432 +0800">
+	<programme channel="CCTV-6" start="20260712084703 +0800" stop="20260712102645 +0800">
 		<title lang="zh">跨国大追捕：博物馆谜案</title>
 	</programme>
-	<programme channel="CCTV-6" start="20260712105432 +0800" stop="20260712123507 +0800">
-		<title lang="zh">跨国大追捕“伊凡”的复仇</title>
+	<programme channel="CCTV-6" start="20260712102645 +0800" stop="20260712121100 +0800">
+		<title lang="zh">跨国大追捕:“伊凡”的复仇</title>
 	</programme>
-	<programme channel="CCTV-6" start="20260712123507 +0800" stop="20260712124147 +0800">
+	<programme channel="CCTV-6" start="20260712121100 +0800" stop="20260712121710 +0800">
 		<title lang="zh">音乐电影欣赏</title>
 	</programme>
-	<programme channel="CCTV-6" start="20260712124147 +0800" stop="20260712142026 +0800">
+	<programme channel="CCTV-6" start="20260712121710 +0800" stop="20260712135324 +0800">
 		<title lang="zh">跨国大追捕：致命的光环</title>
 	</programme>
-	<programme channel="CCTV-6" start="20260712142026 +0800" stop="20260712155721 +0800">
+	<programme channel="CCTV-6" start="20260712135324 +0800" stop="20260712152825 +0800">
 		<title lang="zh">跨国大追捕：千里追逃</title>
 	</programme>
-	<programme channel="CCTV-6" start="20260712155721 +0800" stop="20260712161631 +0800">
+	<programme channel="CCTV-6" start="20260712152825 +0800" stop="20260712155956 +0800">
+		<title lang="zh">我和我的祖国：前夜</title>
+	</programme>
+	<programme channel="CCTV-6" start="20260712155956 +0800" stop="20260712161906 +0800">
 		<title lang="zh">佳片有约周日版2026-028</title>
 	</programme>
-	<programme channel="CCTV-6" start="20260712161631 +0800" stop="20260712164341 +0800">
+	<programme channel="CCTV-6" start="20260712161906 +0800" stop="20260712164547 +0800">
 		<title lang="zh">终结者2018（上）</title>
 	</programme>
-	<programme channel="CCTV-6" start="20260712164341 +0800" stop="20260712182446 +0800">
+	<programme channel="CCTV-6" start="20260712164547 +0800" stop="20260712182544 +0800">
 		<title lang="zh">终结者2018（下）</title>
 	</programme>
-	<programme channel="CCTV-6" start="20260712182446 +0800" stop="20260712200850 +0800">
+	<programme channel="CCTV-6" start="20260712182544 +0800" stop="20260712200633 +0800">
 		<title lang="zh">举起手来！</title>
 	</programme>
-	<programme channel="CCTV-6" start="20260712200850 +0800" stop="20260712220222 +0800">
+	<programme channel="CCTV-6" start="20260712200633 +0800" stop="20260712220000 +0800">
 		<title lang="zh">绝境逢生&lt;上海&gt;</title>
 	</programme>
-	<programme channel="CCTV-6" start="20260712220222 +0800" stop="20260712222022 +0800">
+	<programme channel="CCTV-6" start="20260712220000 +0800" stop="20260712221800 +0800">
 		<title lang="zh">中国电影报道2026-193</title>
 	</programme>
-	<programme channel="CCTV-6" start="20260712222022 +0800" stop="20260712222607 +0800">
+	<programme channel="CCTV-6" start="20260712221800 +0800" stop="20260712222345 +0800">
 		<title lang="zh">中国福利彩票阳光开奖2026-07-12</title>
 	</programme>
-	<programme channel="CCTV-6" start="20260712222607 +0800" stop="20260712230247 +0800">
+	<programme channel="CCTV-6" start="20260712222345 +0800" stop="20260712230055 +0800">
 		<title lang="zh">暗夜雄狮（上）</title>
 	</programme>
-	<programme channel="CCTV-6" start="20260712230247 +0800" stop="20260712230417 +0800">
+	<programme channel="CCTV-6" start="20260712230055 +0800" stop="20260712230155 +0800">
 		<title lang="zh">中国体育彩票阳光开奖2026-07-12</title>
 	</programme>
-	<programme channel="CCTV-6" start="20260712230417 +0800" stop="20260712235900 +0800">
+	<programme channel="CCTV-6" start="20260712230155 +0800" stop="20260712235900 +0800">
 		<title lang="zh">暗夜雄狮（下）</title>
 	</programme>
 	<channel id="CCTV-7">
