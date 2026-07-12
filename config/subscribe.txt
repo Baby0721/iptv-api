@@ -11,7 +11,7 @@
 # https://gh-proxy.com/https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
 # https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 # https://gh-proxy.com/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
-https://raw.githubusercontent.com/Baby0721/TV/blob/main/iptv-fe.m3u
+https://raw.githubusercontent.com/Baby0721/TV/blob/main/iptv.txt
 https://raw.githubusercontent.com/jia070310/lemonTV/blob/main/iptv-fe.m3u
 # https://gh-proxy.org/https://github.com/ioptu/migu_video/raw/refs/heads/main/migu.m3u
 # https://gh-proxy.com/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
@@ -24,5 +24,5 @@ https://raw.githubusercontent.com/jia070310/lemonTV/blob/main/iptv-fe.m3u
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
 # This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
-https://raw.githubusercontent.com/Baby0721/TV/blob/main/iptv-fe.m3u
+https://raw.githubusercontent.com/Baby0721/TV/blob/main/iptv.txt
 https://raw.githubusercontent.com/jia070310/lemonTV/blob/main/iptv-fe.m3u
