@@ -2,17 +2,17 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
-https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
-https://gh-proxy.com/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
-https://gh-proxy.com/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
-https://gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
-https://gh-proxy.com/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
-https://gh-proxy.com/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
-https://gh-proxy.com/https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
-https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
-https://gh-proxy.com/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
-
-# https://gh-proxy.org/https://github.com/jia070310/lemonTV/blob/main/iptv-fe.m3u
+# https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+# https://gh-proxy.com/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
+# https://gh-proxy.com/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+# https://gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
+# https://gh-proxy.com/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
+# https://gh-proxy.com/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
+# https://gh-proxy.com/https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
+# https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+# https://gh-proxy.com/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+https://raw.githubusercontent.com/Baby0721/TV/blob/main/iptv-fe.m3u
+https://raw.githubusercontent.com/jia070310/lemonTV/blob/main/iptv-fe.m3u
 # https://gh-proxy.org/https://github.com/ioptu/migu_video/raw/refs/heads/main/migu.m3u
 # https://gh-proxy.com/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
 # https://gh-proxy.com/https://raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt
@@ -24,7 +24,5 @@ https://gh-proxy.com/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/ip
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
 # This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
-https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
-
-# https://gh-proxy.org/https://github.com/jia070310/lemonTV/blob/main/iptv-fe.m3u
-# https://gh-proxy.org/https://github.com/ioptu/migu_video/raw/refs/heads/main/migu.m3u
+https://raw.githubusercontent.com/Baby0721/TV/blob/main/iptv-fe.m3u
+https://raw.githubusercontent.com/jia070310/lemonTV/blob/main/iptv-fe.m3u
