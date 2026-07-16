@@ -17,7 +17,7 @@
 # https://gh-proxy.org/https://github.com/jia070310/lemonTV/blob/main/iptv-fe.m3u
 # https://cdn.jsdelivr.net/gh/Baby0721/TV@main/iptv.txt
 # https://ghproxy.com/https://raw.githubusercontent.com/Baby0721/TV/main/iptv-fe.m3u
-https://tvbox.aiga.cc/live/shdx.txt
+
 https://tvbox.aiga.cc/live/yuanzl77_live.txt
 
 [WHITELIST]
